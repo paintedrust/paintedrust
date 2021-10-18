@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @paintedrust
 - 👀 My main tech stack is c# and .Net Core back-end, and a Vue 3 / Typescript front-end. I have a working knowledge of SQL and SQL Server in particular, but I prefer to do any data manipulation through deployed code as you are less likely to make catastrophic errors. 
 - 🌱 Lately I'm going back and attempting small challenges from a booklet I found from school (GCSE or A-level, I'm not sure). I'm applying my knowledge of coding standards and techniques I've learnt from work to develop and expand these tasks.
-- Next, I'd like to relearn some of my data structures and algorithms from University. Altough you don't use quicksorts or heapsorts in real life, a better understanding of recursion and other techniques can be useful in everyday coding.
+- Next, I'd like to relearn some of my data structures and algorithms from University. Although you don't use quicksorts or heapsorts in real life, a better understanding of recursion and other techniques can be useful in everyday coding.
